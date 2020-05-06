@@ -2,7 +2,7 @@
 <b><font size=18><u>Objective</b></u></font><br>
 A software which is develop to store survey information. 
 <b><font size=18>Users of system</b></font><br>
-<ul<li>Admin<li></ul>
+<ul><li>Admin<li></ul>
 <b><font size=18>Functional Requirements</b></font><br>
 <ul><li>Admin</li>
 1.	Can insert detail . <br>
