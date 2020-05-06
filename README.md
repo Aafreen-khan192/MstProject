@@ -2,7 +2,7 @@
 <b><font size=18><u>Objective</b></u></font><br>
 A software which is develop to store survey information. 
 <b><font size=18>Users of system</b></font><br>
-<ul><li></ul>
+<ul>Admin<li></ul>
 <b><font size=18>Functional Requirements</b></font><br>
 <ul><li>Admin</li>
 1.	Can insert detail . <br>
@@ -24,10 +24,10 @@ First page:-Step 1)first will design index page of project from project will sta
 Step 2)on click “insert data” a data entry page will open in which we insert all detail user(name,mobile,aadhar,medical detail(fever ,cough and cold):<br>
 <img src="2a.png" width=600><br>
 Step 3) we create database table in mysql named user to store all these information :
-Step 4)After creating database on click submit button.connection will stablish and Record inserted in database:
+Step 4)After creating database on click submit button.connection will stablish and Record inserted in database:<br>
 
 <img src="3a.png" width=600><br>
 Step 5) on click “show data entry” data will fetch from database and show all Record:
 <img src="4a.png" width=600><br>
-Record in Database(Mysql)
+Record in Database(Mysql):<br>
 <img src="database.png" width=600><br>
